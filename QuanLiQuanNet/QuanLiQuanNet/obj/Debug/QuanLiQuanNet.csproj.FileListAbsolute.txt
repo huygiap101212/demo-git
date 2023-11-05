@@ -1,0 +1,13 @@
+D:\Lop_21133\Nam_3\He_quan_tri_co_so_du_lieu\Bao_cao_cuoi_ki\DoAn\QuanLiQuanNet\QuanLiQuanNet\bin\Debug\QuanLiQuanNet.exe.config
+D:\Lop_21133\Nam_3\He_quan_tri_co_so_du_lieu\Bao_cao_cuoi_ki\DoAn\QuanLiQuanNet\QuanLiQuanNet\bin\Debug\QuanLiQuanNet.exe
+D:\Lop_21133\Nam_3\He_quan_tri_co_so_du_lieu\Bao_cao_cuoi_ki\DoAn\QuanLiQuanNet\QuanLiQuanNet\bin\Debug\QuanLiQuanNet.pdb
+D:\Lop_21133\Nam_3\He_quan_tri_co_so_du_lieu\Bao_cao_cuoi_ki\DoAn\QuanLiQuanNet\QuanLiQuanNet\obj\Debug\QuanLiQuanNet.csproj.AssemblyReference.cache
+D:\Lop_21133\Nam_3\He_quan_tri_co_so_du_lieu\Bao_cao_cuoi_ki\DoAn\QuanLiQuanNet\QuanLiQuanNet\obj\Debug\QuanLiQuanNet.Login.resources
+D:\Lop_21133\Nam_3\He_quan_tri_co_so_du_lieu\Bao_cao_cuoi_ki\DoAn\QuanLiQuanNet\QuanLiQuanNet\obj\Debug\QuanLiQuanNet.Properties.Resources.resources
+D:\Lop_21133\Nam_3\He_quan_tri_co_so_du_lieu\Bao_cao_cuoi_ki\DoAn\QuanLiQuanNet\QuanLiQuanNet\obj\Debug\QuanLiQuanNet.WareHouse.resources
+D:\Lop_21133\Nam_3\He_quan_tri_co_so_du_lieu\Bao_cao_cuoi_ki\DoAn\QuanLiQuanNet\QuanLiQuanNet\obj\Debug\QuanLiQuanNet.csproj.GenerateResource.cache
+D:\Lop_21133\Nam_3\He_quan_tri_co_so_du_lieu\Bao_cao_cuoi_ki\DoAn\QuanLiQuanNet\QuanLiQuanNet\obj\Debug\QuanLiQuanNet.csproj.CoreCompileInputs.cache
+D:\Lop_21133\Nam_3\He_quan_tri_co_so_du_lieu\Bao_cao_cuoi_ki\DoAn\QuanLiQuanNet\QuanLiQuanNet\obj\Debug\QuanLiQuanNet.exe
+D:\Lop_21133\Nam_3\He_quan_tri_co_so_du_lieu\Bao_cao_cuoi_ki\DoAn\QuanLiQuanNet\QuanLiQuanNet\obj\Debug\QuanLiQuanNet.pdb
+D:\Lop_21133\Nam_3\He_quan_tri_co_so_du_lieu\Bao_cao_cuoi_ki\DoAn\QuanLiQuanNet\QuanLiQuanNet\obj\Debug\QuanLiQuanNet.QuanLy.resources
+D:\Lop_21133\Nam_3\He_quan_tri_co_so_du_lieu\Bao_cao_cuoi_ki\DoAn\QuanLiQuanNet\QuanLiQuanNet\obj\Debug\QuanLiQuanNet.Home.resources
